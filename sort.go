@@ -27,6 +27,6 @@ func main() {
 
 	})
 
-	fmt.Println(author_slice)
+	fmt.Println("Hello", author_slice)
 
 }
